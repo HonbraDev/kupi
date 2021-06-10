@@ -18,5 +18,8 @@
     "watch": "tsc --watch",
     "run": "tsc && node .",
     "postinstall": "tsc"
-  }
+  },
+  "description": "A wrapper for scraping Kupi.cz prices",
+  "repository": "https://github.com/HonbraDev/kupi.git",
+  "author": "Honbra <54026315+HonbraDev@users.noreply.github.com>"
 }
